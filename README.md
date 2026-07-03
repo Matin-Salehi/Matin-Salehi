@@ -17,8 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/matin.sy86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sy._.1333" height="30" width="40" /></a>
-<a href="https://discord.gg/Slayersssss#8995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Slayersssss#8995" height="30" width="40" /></a>
+  <a href="https://t.me/matinsdev" target="_blank">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="40"/>
+  </a>
+
+  <a href="https://instagram.com/matin.sy86" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="40"/>
+  </a>
 </p>
 
 <br>
