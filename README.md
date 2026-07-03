@@ -1,11 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matin+Salehi!;" />
 </h1>
-<h3 align="center">A passionate backend developer From Iran</h3>
+<h3 align="center">A passionate backend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matin-Salehi&label=Profile%20views&color=0e75b6&style=flat" alt="Matin-Salehi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matin-Salehi" alt="Matin-Salehi" /></a> </p>
+
 
 - 🔭 I’m currently working on **Django**
 
@@ -21,14 +21,14 @@
 <a href="https://discord.gg/Slayersssss#8995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Slayersssss#8995" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,django,fastapi,mysql,git" />
   </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matin-Salehi&show_icons=true&locale=en&layout=compact" alt="Matin-Salehi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Matin-Salehi&show_icons=true&locale=en" alt="Matin-Salehi" /></p>
+<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matin-Salehi&" alt="Matin-Salehi" /></p>
 
