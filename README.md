@@ -35,7 +35,7 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matin-Salehi&" alt="Matin-Salehi" /></p>
+
 
 <br>
 
