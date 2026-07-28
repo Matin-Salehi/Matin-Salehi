@@ -13,3 +13,31 @@
 I'm a backend developer focused on Python and Django.
 
 I build backend projects, improve my skills through real-world development, and document what I learn along the way.
+
+
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### Backend Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</p>
+
+### Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
