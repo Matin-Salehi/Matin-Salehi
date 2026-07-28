@@ -41,3 +41,12 @@ I build backend projects, improve my skills through real-world development, and 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matin-Salehi&show_icons=true&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matin-Salehi&layout=compact&hide_border=true&theme=transparent" height="180"/>
+</p>
