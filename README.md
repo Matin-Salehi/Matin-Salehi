@@ -7,3 +7,9 @@
 <p align="center">
   Backend Developer specializing in Python and Django.
 </p>
+
+## About Me
+
+I'm a backend developer focused on Python and Django.
+
+I build backend projects, improve my skills through real-world development, and document what I learn along the way.
